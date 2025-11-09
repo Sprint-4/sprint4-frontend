@@ -8,7 +8,7 @@
 
 link do video - https://youtu.be/kQmOOXfxa30
 
-link do repositorio - 
+link do repositorio - https://github.com/Sprint-4/sprint4-frontend.git
 
 ---
 
