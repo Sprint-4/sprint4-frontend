@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
 # 🏥 Frontend – Sprint 4  
 **Projeto:** Challenge Hospital das Clínicas  
 **Curso:** Análise e Desenvolvimento de Sistemas – FIAP  
@@ -16,7 +14,6 @@ link do repositorio - https://github.com/Sprint-4/sprint4-frontend.git
 - **Pedro Henrique Luiz Alves Duarte** – RM563405  
 - **Guilherme Macedo Martins** – RM562396  
  
-
 ---
 
 ## 🚀 Sobre o Projeto
@@ -50,38 +47,6 @@ A solução tem foco em **acessibilidade digital**, **usabilidade** e **integra�
 - **Banco de Dados:** Oracle  
 - Comunicação via **endpoints RESTful**  
 - Testes realizados com **Swagger UI**
-
----
-
-## 📂 Estrutura do Projeto
-```
-challenge-front/
-│
-├── src/
-│   ├── assets/         # Imagens e ícones
-│   ├── components/     # Componentes reutilizáveis
-│   ├── pages/          # Páginas principais da aplicação
-│   ├── rotas/          # Configuração de rotas
-│   └── utils/          # Funções auxiliares
-│
-├── package.json
-├── tailwind.config.js
-└── README.md
-=======
->>>>>>> develop
-# 🏥 Projeto: HospitalTech - Painel Administrativo (CRUDs)
-
-### 🧑‍💻 Integrantes da Equipe
-
-Este projeto foi desenvolvido pela equipe **BDB**:
-
-- **Pedro Henrique Luiz Alves Duarte** — RM563405  
-- **Guilherme Macedo Martins** — RM562396
-
-🔗 **[Acesse o Repositório no GitHub](https://github.com/Sprint-4/frontend.git)**
-
-🔗 **[Assista ao Vídeo no YouTube](https://youtu.be/kQmOOXfxa30)**
-
 
 Este projeto é uma aplicação web **SPA (Single Page Application)** completa, desenvolvida como parte do **Challenge de Front-End da FIAP (Sprint 4)**.  
 O objetivo principal é consumir **100% uma API RESTful de Java (Quarkus)**, fornecendo uma **interface administrativa completa** para gerenciar 6 entidades do sistema:
@@ -164,40 +129,25 @@ challenge-front/
 ├── package.json                     # Dependências e scripts
 ├── README.md                        # Documentação do projeto
 └── vite.config.ts                   # Configurações do Vite (Proxy da API)
-<<<<<<< HEAD
-=======
->>>>>>> 007001ba07957fea6e22f29fa35d0f28f16e7906
 >>>>>>> develop
 ```
 
----
-
-<<<<<<< HEAD
-### 🐙 Link do GitHub
-
 O código-fonte completo do projeto, incluindo todo o histórico de commits e o Gitflow, está disponível no GitHub:
 =======
-<<<<<<< HEAD
 ## ⚙️ Como Executar o Projeto
 
 ### 🔧 Pré-requisitos
 - Node.js e npm instalados  
 - Git configurado  
-=======
-### 🐙 Link do GitHub
-
-O código-fonte completo do projeto, incluindo todo o histórico de commits e o Gitflow, está disponível no GitHub:
->>>>>>> 007001ba07957fea6e22f29fa35d0f28f16e7906
 
 ### ▶️ Passos
 ```bash
 # Clonar o repositório
-git clone https://github.com/Sprint-4/Frontend-sprint4.git
+git clone https://github.com/Sprint-4/sprint4-frontend.git
 
 # Entrar na pasta
 cd Frontend-sprint4
 
-<<<<<<< HEAD
 # Instalar dependências
 npm install
 
@@ -221,19 +171,11 @@ Basta criar uma branch, fazer suas alterações e abrir um pull request. 💡
 ## 📜 Licença
 Projeto acadêmico desenvolvido para fins educacionais – FIAP © 2025  
 Todos os direitos reservados à equipe **BDB**.  
-=======
----
-
-### 🎥 Vídeo de Apresentação no YouTube
-
-O vídeo demonstra o sistema completo — incluindo a responsividade, a navegação entre as páginas e o funcionamento da área administrativa com os 6 CRUDs integrados à API Java em tempo real.
->>>>>>> develop
 
 
 
 ---
 
-<<<<<<< HEAD
 ### 🎥 Vídeo de Apresentação no YouTube
 
 O vídeo demonstra o sistema completo — incluindo a responsividade, a navegação entre as páginas e o funcionamento da área administrativa com os 6 CRUDs integrados à API Java em tempo real.
@@ -243,7 +185,4 @@ O vídeo demonstra o sistema completo — incluindo a responsividade, a navegaç
 ---
 
 > 📘 Desenvolvido com dedicação para o Challenge da FIAP — Sprint 4 – 2025.
-=======
-> 📘 Desenvolvido com dedicação para o Challenge da FIAP — Sprint 4 – 2025.
->>>>>>> 007001ba07957fea6e22f29fa35d0f28f16e7906
 >>>>>>> develop
